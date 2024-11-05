@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bammytoye
-- 👀 I’m currently working on a personal project 
-- 🌱 I’m currently learning Vue and Laravel
+- 👀 I’m currently working on a personal project
+- Nrxtjs, Vue, Reactjs, Laravel, Nodejs, JS, Html, css, tailwindcss 
 - 💞️ I’m looking to collaborate with and also looking for internship on front-end development 
 - 📫 You can reach me bamigbalatoyese@gmail.com and (whatsapp = +2348169885711)
 
